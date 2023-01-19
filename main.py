@@ -1,4 +1,4 @@
-
+import templateParser
 
 ## Will rewrite a go template into a go file using the 
 def RewriteGoFile(fileName, fileType):
