@@ -1,2 +1,2 @@
 # GongoGen
-A mongodb boilerplate code generator for go
+A mongodb boilerplate generator for go
